@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('code cloning') {
             steps {
-                git 'https://github.com/guna1234567/Fresh.git'
+                git 'https://github.com/Eswar12345678/Fresh.git'
             }
         }
         stage('code Building') {
